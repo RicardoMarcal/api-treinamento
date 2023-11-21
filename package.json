@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "start": "tsx watch src/index.ts"
+  },
+  "dependencies": {
+    "@hono/node-server": "^1.2.3",
+    "hono": "^3.10.1",
+    "sequelize": "^6.35.1",
+    "sqlite3": "^5.1.6"
+  },
+  "devDependencies": {
+    "tsx": "^3.12.2"
+  }
+}
